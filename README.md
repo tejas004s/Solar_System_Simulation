@@ -1,6 +1,3 @@
-
-
-```markdown
 # 🌌 Solar System Simulation
 
 Simulator for the solar system.  
@@ -78,4 +75,3 @@ MIT License
 - Hosted with ❤️ on Render
 
 ---
-```
